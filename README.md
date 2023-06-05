@@ -1,0 +1,1 @@
+# qa-foundation-platform.github.io
